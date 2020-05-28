@@ -1,0 +1,8 @@
+resources:
+- namespaces.yaml
+- amq-broker.yaml
+- amq-subscription.yaml
+- channel.yaml
+- subscription-lineapp.yaml
+- channel-sensors.yaml
+- subscription-sensors.yaml

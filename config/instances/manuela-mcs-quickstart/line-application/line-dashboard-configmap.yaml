@@ -5,7 +5,7 @@ metadata:
 data:
   config.json: |-
     {
-        "websocketHost": "http://messaging-manuela-lineapp-mcs.apps-crc.testing", 
+        "websocketHost": "http://messaging-manuela-lineapp-mcs.apps.edge-mgmt-hub.gcp.devcluster.openshift.com", 
         "websocketPath": "/api/service-web/socket",
         "SERVER_TIMEOUT": 20000
     }
